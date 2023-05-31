@@ -81,7 +81,7 @@ body {
     transform: rotate(0deg);
   }
   100% {
-    transform: rotate(0deg);
+    transform: rotate(360deg);
   }
 }
 
@@ -1350,7 +1350,7 @@ hr.ThanhGachNgang {
   margin: 10px 0px;
   color: #888888;
   font-size: 25px;
-  transition: all 0.5s;
+  transition: all 0s;
 }
 
 .heading__copy {
