@@ -1350,7 +1350,7 @@ hr.ThanhGachNgang {
   margin: 10px 0px;
   color: #888888;
   font-size: 25px;
-  transition: all 0s;
+  transition: all 0.5s;
 }
 
 .heading__copy {
